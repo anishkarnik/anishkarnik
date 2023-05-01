@@ -1,6 +1,6 @@
 - 👋 Hi, I’m printf("@anishkarnik")
 - 👀 I’m interested in printf("learning different languages and understanding more about computers, systems and related stuff.")
-- 🌱 I’m currently learning printf("C, Python")
+- 🌱 I’m currently learning printf("C, Python,Java,JS")
 - 💞️ I’m looking for printf("A good active community in order to speed up my progress")
 - 📫 How to reach me printf("anishkarnik32@gmail.com") 
 ------------------
